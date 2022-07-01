@@ -1,7 +1,7 @@
   {
-  "name": "NeoMD",
+  "name": "BOT LINTANG",
   "version": "1.2.3",
-  "description": "Created By Lexxy Official",
+  "description": "Created By BOT LINTANG",
   "main": "cmd.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
 ],
-  "author": "Lexxy Official",
+  "author": "BOT LINTANG",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lexxy24/BOTMD.git"
+    "url": "git+https://tiktok.com/@joceylintangg"
   },
   "bugs": {
-    "url": "https://github.com/Lexxy24/BOTMD/issues"
+    "url": "https://instagram.com/joceylintangg"
     },
-    "homepage": "https://github.com/Lexxy24/BOTMD#readme"
+    "homepage": "https://tiktok.com/@joceylintangg"
     }
