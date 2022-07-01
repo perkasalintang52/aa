@@ -3,23 +3,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['994408465157', '994408465157']
-global.premium = ['994408465157']
-global.number = '994408465157'
-global.botname = 'AryBotz-MD'
-global.packname = 'ByAry-MD'
-global.author = 'By Ary-Caa-!'
-global.emailowner = 'arybotz791@gmail.com'
-global.websiteowner = 'https://github.com/aryjuanda'
+global.owner = ['6281322577123', '6281322577123']
+global.premium = ['6281322577123']
+global.number = '6281322577123'
+global.botname = 'BOT LINTANGD'
+global.packname = 'By BOT LINTANG'
+global.author = 'By BOT LINTANG!'
+global.emailowner = 'Jjoceylintang12345@@gmail.com'
+global.websiteowner = 'https://tiktok.com/@joceylintangg'
 global.region = 'Indonesia'
 global.sessionName = "session"
-global.prefa = ['!','.','🐦','🐤','🗿']
+global.prefa = ['']
 global.sp = '⭔'
 global.simbol = "➭"
 global.rkyt = []
 
 // BIARIN:v
-global.creator = '© Created By AryBotz Official'
+global.creator = '© Created By BOT LINTANG'
 
 // MESSAGE
 global.mess = {
